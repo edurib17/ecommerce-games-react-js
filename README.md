@@ -12,8 +12,8 @@ Install JSON Server
 npm install -g json-server
 
 Start JSON Server
+npx json-server products.json -p 3333 
 
-json-server --watch products.json
 Now if you go to http://localhost:3000/posts/1, you'll get
 
 { "id": 1, "title": "json-server", "author": "typicode" }
