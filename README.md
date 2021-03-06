@@ -1,3 +1,11 @@
+ <ul>
+ <img src="https://github.com/edurib17/ecommerce-games-react-js/blob/main/src/prints/Home.png" height="500" widht="200" >
+  <img src="https://github.com/edurib17/ecommerce-games-react-js/blob/main/src/prints/Cart.png" height="500" widht="200" >
+ <img src="https://github.com/edurib17/ecommerce-games-react-js/blob/main/src/prints/CartFull.png" height="500" widht="200" >
+  </ul>
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
