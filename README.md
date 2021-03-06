@@ -7,6 +7,16 @@
 
 
 # Getting Started with Create React App
+Install JSON Server
+
+npm install -g json-server
+
+Start JSON Server
+
+json-server --watch products.json
+Now if you go to http://localhost:3000/posts/1, you'll get
+
+{ "id": 1, "title": "json-server", "author": "typicode" }
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
